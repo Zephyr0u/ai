@@ -1,5 +1,6 @@
 # .kodiak.toml
 version = 1
+version = 1
 
 [merge]
 automerge_label = "automerge"
